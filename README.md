@@ -4,4 +4,4 @@ NPM     : 2106653571
 
 Kelas   : B
 
-Hobi    : Tidur
+Hobi    : Makan
